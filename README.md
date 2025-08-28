@@ -1,6 +1,5 @@
 # 🏨 Hotel Platform - Multi-Tenant Food Delivery & Management System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node.js-20.x-green.svg)](https://nodejs.org/)
 [![Next.js](https://img.shields.io/badge/next.js-15.x-blue.svg)](https://nextjs.org/)
 [![MongoDB](https://img.shields.io/badge/mongodb-latest-green.svg)](https://www.mongodb.com/)
